@@ -16,7 +16,7 @@
 			radius: 80,
 			duration: 1000,
 			wrpClass: 'circles-wrap',
-			colors: ["#377dff", "#e7eaf3"],
+			colors: ["#28b738", "#e7eaf3"],
 			bounds: -100,
 			debounce: 10,
 			rtl: false,
